@@ -1,0 +1,5 @@
+syntax: glob
+cedar
+OCHamcrest
+.DS_Store
+*.swp
